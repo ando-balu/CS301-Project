@@ -20,8 +20,8 @@ This project demonstrates real-time audio synthesis using SDL2 in C++. It genera
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/ando-balu/CS301-A-Project.git
-cd CS301-A-Project
+git clone https://github.com/ando-balu/CS301-Project.git
+cd CS301-Project
 ```
 
 ### 2. Build the Project
